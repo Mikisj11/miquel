@@ -1,7 +1,7 @@
 #include <iostream> //libreria/biblioteca estandard necesaria para empezar
 int main(int argc, char const *argv[])
 {
-
+// ESTO ES UNA PRUEBA PARA VER SI PUEDO EDITAR EL FICHERO DE MIQUEL SALLES
     int i9, a9 = 0, b9 = 0;
     int taula9[10], taula92[10];
     srand((unsigned)time(NULL));
